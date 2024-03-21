@@ -33,4 +33,4 @@ In the simulator, the electronic safe will first ask for a secret code. It will 
 ## Contributers
 - 2021UCS1618 **Shobhit**
 - 2021UCS1702 **Prachi Sah**
-- 2021UCS1659 **Ujjawal**
+- 2021UCS1659 **Ujjwal**
