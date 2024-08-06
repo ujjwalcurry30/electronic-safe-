@@ -4,7 +4,7 @@ This project uses face recognition to authenticate a user and then interact with
 
 ## Getting Started
 
-1. Navigate to the [`faceAuthentication`](command:_github.copilot.openRelativePath?%5B%22faceAuthentication%22%5D "faceAuthentication") directory:
+1. Navigate to the [`faceAuthentication`](command:_github.copilot.openRelativePath?%5B%22faceAuthentication%22%5D "faceAuthentication") directory
 
 ```sh
 cd faceAuthentication
